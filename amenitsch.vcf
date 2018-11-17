@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Amenitsch;Maximilian;;;
+FN: Maximilian Amenitsch
+ORG:inspect OG;
+TITLE:Bauechniker
+EMAIL;type=INTERNET;type=WORK;type=pref:maximilian.amenitsch@inspect.co.at
+TEL;type=WORK;type=VOICE:+43 664 61 98 269
+TEL;type=HOME;type=VOICE:+43 660 16 61 688
+item1.ADR;type=WORK;type=pref:;;Alte Bundesstraße 4a\n;;;A-5500;Bischofshofen
+item1.X-ABADR:sg
+item2.URL;type=pref:www.inspect.co.at
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
