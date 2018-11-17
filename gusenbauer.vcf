@@ -7,7 +7,7 @@ ORG:inspect OG;
 TITLE:Software Entwickler und Datenanalyst
 EMAIL;type=INTERNET;type=WORK;type=pref:franz.gusenbauer@inspect.co.at
 TEL;type=WORK;type=VOICE:+43 (0)660 87 103 73
-item1.ADR;type=WORK;type=pref:;;1 Alte Bundesstraße 4a;;;A-5500;Bischofshofen
+item1.ADR;type=WORK;type=pref:;;Alte Bundesstraße 4a\n;;;A-5500;Bischofshofen
 item1.X-ABADR:sg
 item2.URL;type=pref:www.inspect.co.at
 item2.X-ABLabel:_$!<HomePage>!$_
